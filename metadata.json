@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DOK Study Master",
+  "description": "An AI-powered academic assistant that transforms uploaded book content into examinable questions across all four Depth of Knowledge (DOK) levels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
